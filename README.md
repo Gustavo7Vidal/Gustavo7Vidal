@@ -6,8 +6,8 @@
 
 ### Demos de projetos:
 
-- Registro de Livros: https://youtu.be/fhQKJ29mttQ
 - Todo-List: https://youtu.be/3Ed2hC35V78
+- Reg.Livros: https://youtu.be/fhQKJ29mttQ
 - Accounts : https://youtu.be/9cTr9pS6W8k
 
 ### Entre em contato comigo nas redes abaixo!
