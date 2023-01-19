@@ -5,10 +5,12 @@
 - 🔭 Procurando vagas de estagio na area.
 
 ### Demos de projetos:
-- Accounts : https://youtu.be/9cTr9pS6W8k
+
 - Registro de Livros: https://youtu.be/fhQKJ29mttQ
 - Todo-List: https://youtu.be/3Ed2hC35V78
- ### Entre em contato comigo nas redes abaixo!
+- Accounts : https://youtu.be/9cTr9pS6W8k
+
+### Entre em contato comigo nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/vidal_guh7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
