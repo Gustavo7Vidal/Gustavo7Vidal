@@ -1,8 +1,8 @@
 ### Olá, eu sou Gustavo Vidal 👋
 
 
-- 💻 Estudo Back-end com Javascript/Node
-- 🔭 Procurando vagas de estagio/CLT na area.
+- 💻 Desenvolvo em Javascript/Node
+- 🔭 aberto a propostas!
 
 <div>
   <a href="https://github.com/Gustavo7Vidal">
