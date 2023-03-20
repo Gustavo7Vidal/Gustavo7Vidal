@@ -2,7 +2,7 @@
 
 
 - 💻 Desenvolvo em Javascript/Node
-- 🔭 aberto a propostas!
+- 🔭 Aberto à propostas!
 
 <div>
   <a href="https://github.com/Gustavo7Vidal">
