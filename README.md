@@ -1,7 +1,7 @@
 ### Olá, eu sou Gustavo Vidal 👋
 
 
-- 💻 Crio aplicações em Javascript/Node
+- 💻 Crio aplicações com Javascript/Node
 - 🔭 Aberto à propostas!
 
 <div>
